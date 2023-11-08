@@ -24,3 +24,8 @@ color: black;
 img{
 font-size: 12px;
 }
+
+h3, h4, h5{
+  color: chartreuse;
+}
+
